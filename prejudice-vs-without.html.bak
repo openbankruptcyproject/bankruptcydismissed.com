@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="referrer" content="no-referrer-when-downgrade">
+<title>Dismissed With Prejudice vs Without Prejudice - Bankruptcy</title>
+<meta name="description" content="Understanding the critical difference: dismissal with prejudice bars refiling, while dismissal without prejudice allows it. Section 349 and Section 109(g) explained.">
+<link rel="canonical" href="https://bankruptcydismissed.com/prejudice-vs-without.html">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<meta property="og:title" content="Dismissed With Prejudice vs Without Prejudice - Bankruptcy">
+<meta property="og:description" content="Understanding the critical difference: dismissal with prejudice bars refiling, while dismissal without prejudice allows it. Section 349 and Section 109(g) explained.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://bankruptcydismissed.com/prejudice-vs-without.html">
+<meta property="og:site_name" content="bankruptcydismissed.com">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Dismissed With Prejudice vs Without Prejudice - Bankruptcy">
+<meta name="twitter:description" content="Understanding the critical difference: dismissal with prejudice bars refiling, while dismissal without prejudice allows it. Section 349 and Section 109(g) explained.">
+<meta property="og:image" content="https://openbankruptcyproject.org/og-default.svg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://openbankruptcyproject.org/og-default.svg">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Organization","name":"Open Bankruptcy Project","url":"https://1328f.org"}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://bankruptcydismissed.com/"},{"@type":"ListItem","position":2,"name":"Dismissed With Prejudice vs Without Prejudice -- Bankruptcy","item":"https://bankruptcydismissed.com/prejudice-vs-without.html"}]}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "With Prejudice vs Without Prejudice",
+      "description": "Understanding the critical difference: dismissal with prejudice bars refiling, while dismissal without prejudice allows it. Section 349 and Section 109(g) expla",
+      "author": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "Open Bankruptcy Project",
+        "url": "https://1328f.org"
+      },
+      "datePublished": "2026-03-28",
+      "dateModified": "2026-03-29",
+      "mainEntityOfPage": "https://bankruptcydismissed.com/prejudice-vs-without.html"
+    },
+    {
+      "@type": "WebPage",
+      "name": "With Prejudice vs Without Prejudice",
+      "url": "https://bankruptcydismissed.com/prejudice-vs-without.html",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [
+          ".quick-answer",
+          "h1",
+          ".summary",
+          "p:first-of-type"
+        ]
+      }
+    }
+  ]
+}
+</script>
+<style>
+:root{--bg:#0d1117;--surface:#161b22;--border:#30363d;--text:#e6edf3;--text-muted:#9eaab6;--accent:#58a6ff;--green:#3fb950;--red:#f85149}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--text);line-height:1.7}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.skip-link{position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;padding:1rem;background:#238636;color:#fff;font-weight:600}
+.skip-link:focus{position:fixed;top:10px;left:10px;width:auto;height:auto;overflow:visible}
+header{background:var(--surface);border-bottom:1px solid var(--border);padding:2rem;text-align:center}
+header h1{color:#f0f6fc;font-size:1.8rem;margin-bottom:0.5rem}
+header h1 .accent{color:var(--accent)}
+header .subtitle{color:var(--text-muted);font-size:1rem}
+article{max-width:760px;margin:0 auto;padding:2rem}
+h2{color:#f0f6fc;font-size:1.3rem;margin:2rem 0 0.75rem;padding-bottom:0.4rem;border-bottom:1px solid var(--border)}
+h3{color:#f0f6fc;font-size:1.05rem;margin:1.5rem 0 0.5rem}
+p{margin-bottom:1rem}
+ul,ol{margin:0 0 1rem 1.5rem}
+li{margin-bottom:0.4rem}
+table{width:100%;border-collapse:collapse;margin-bottom:1.5rem}
+thead th{color:#f0f6fc;font-weight:600;background:var(--surface)}
+th,td{padding:0.5rem 0.75rem;text-align:left;border-bottom:1px solid var(--border);font-size:0.9rem}
+td{color:var(--text)}
+.callout{background:var(--surface);border:1px solid var(--border);border-left:3px solid var(--accent);border-radius:0 6px 6px 0;padding:1rem 1.5rem;margin-bottom:1.5rem}
+.callout.green{border-left-color:var(--green)}
+.callout.red{border-left-color:var(--red)}
+.callout.yellow{border-left-color:#e3a835}
+.highlight{color:var(--accent);font-weight:600}
+footer{background:var(--surface);border-top:1px solid var(--border);padding:2rem;text-align:center;margin-top:3rem;color:var(--text-muted);font-size:0.85rem}
+footer a{color:var(--accent)}
+footer .links{margin-top:0.5rem}
+footer .links a{margin:0 0.75rem}
+.network-bar{background:var(--surface);border-top:1px solid var(--border);padding:1rem 1.2rem;text-align:center;font-size:0.78rem;color:var(--text-muted)}
+.network-bar a{color:var(--accent);margin:0 0.4rem}
+.network-bar .sep{color:var(--border);margin:0 0.25rem}
+.network-bar strong{color:#f0f6fc}
+@media print{header,nav,footer,.skip-link,.network-bar{display:none}}
+#site-nav{background:var(--bg);border-bottom:1px solid var(--border);padding:0.5rem 1rem;text-align:center;font-size:0.82rem;line-height:1.9}
+#site-nav a{margin:0 0.4rem}
+#site-nav .sep{color:var(--border);margin:0 0.25rem}
+.nav-toggle{display:none;background:none;border:1px solid var(--border);color:var(--text);font-size:1.2rem;padding:0.4rem 0.75rem;border-radius:4px;cursor:pointer;line-height:1}
+.nav-toggle:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.nav-links{display:inline}
+@media(max-width:768px){
+  header h1{font-size:1.4rem}
+  article{padding:1.25rem}
+  .nav-toggle{display:inline-block;margin:0.25rem 0}
+  .nav-links{display:none;text-align:left;padding:0.5rem 0}
+  .nav-links.open{display:block}
+  .nav-links a{display:block;padding:0.6rem 1rem;margin:0;font-size:0.9rem;min-height:44px;line-height:1.6;border-bottom:1px solid #21262d}
+  .nav-links a:hover,.nav-links a:focus{background:var(--surface)}
+  .nav-links .sep{display:none}
+  table{font-size:0.82rem}
+  th,td{padding:0.4rem 0.5rem}
+}
+</style>
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "What Does \"With Prejudice\" Mean?", "acceptedAnswer": {"@type": "Answer", "text": "When a bankruptcy case is dismissed with prejudice , the court is imposing a penalty. It means you cannot refile a bankruptcy case for a specified period -- sometimes 180 days, sometimes longer."}}, {"@type": "Question", "name": "What Does \"Without Prejudice\" Mean?", "acceptedAnswer": {"@type": "Answer", "text": "Most dismissals are without prejudice . This means the dismissal does not bar you from filing a new case. You retain the right to refile, subject to the general timing rules under Section 109 (g) and the stay limitations under Section 362(c)."}}, {"@type": "Question", "name": "How to Tell Which You Got?", "acceptedAnswer": {"@type": "Answer", "text": "The dismissal order will typically state whether the dismissal is with or without prejudice. Look at the exact language: \"Case dismissed\" or \"Case dismissed without prejudice\" = you can refile \"Case dismissed with prejudice\" or \"Debtor barred from filing for [X] days/months\" = you must wait \"Case..."}}]}
+</script>
+</head>
+<body>
+<a href="#main" class="skip-link">Skip to main content</a>
+<nav id="site-nav" aria-label="Site navigation">
+  <button class="nav-toggle" aria-expanded="false" aria-controls="nav-links" onclick="let n=document.getElementById('nav-links');let open=n.classList.toggle('open');this.setAttribute('aria-expanded',open)">&#9776; Menu</button>
+  <span id="nav-links" class="nav-links">
+    <a href="/">Home</a>
+    <span class="sep">|</span>
+    <a href="/dismissed-vs-discharged.html">Dismissed vs Discharged</a>
+    <span class="sep">|</span>
+    <a href="/can-i-refile.html">Can I Refile?</a>
+    <span class="sep">|</span>
+    <a href="/reasons-for-dismissal.html">Reasons for Dismissal</a>
+    <span class="sep">|</span>
+    <a href="/what-happens-next.html">What Happens Next</a>
+    <span class="sep">|</span>
+    <a href="/employer-impact.html">Employer Impact</a>
+    <span class="sep">|</span>
+    <a href="/refiling-after.html">Refiling After</a>
+    <span class="sep">|</span>
+    <a href="/credit-impact.html">Credit Impact</a>
+    <span class="sep">|</span>
+    <a href="/prejudice-vs-without.html">With vs Without Prejudice</a>
+  </span>
+</nav>
+
+<header role="banner">
+  <h1>With Prejudice vs <span class="accent">Without Prejudice</span></h1>
+  <p class="subtitle">The difference determines whether you can ever file again</p>
+</header>
+
+<article id="main">
+
+<h2>What Does "With Prejudice" Mean?</h2>
+<p>When a bankruptcy case is dismissed <strong>with prejudice</strong>, the court is imposing a penalty. It means you cannot refile a bankruptcy case for a specified period - sometimes 180 days, sometimes longer. In extreme cases, the court may bar you from filing for one or two years, or impose conditions on any future filing.</p>
+<p>Dismissal with prejudice is relatively rare and typically reserved for cases involving:</p>
+<ul>
+  <li>Bad faith filing (filing solely to delay creditors with no intent to reorganize)</li>
+  <li>Serial filing abuse (repeatedly filing and dismissing to exploit the <a href="https://automaticstay.org?utm_source=bankruptcydismissed.com&utm_medium=referral&utm_campaign=btn-network" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project" target="_blank" rel="noopener">automatic stay</a>)</li>
+  <li>Fraud or misrepresentation in the schedules</li>
+  <li>Willful failure to comply with court orders</li>
+</ul>
+
+<h2>What Does "Without Prejudice" Mean?</h2>
+<p>Most dismissals are <strong>without prejudice</strong>. This means the dismissal does not bar you from filing a new case. You retain the right to refile, subject to the general timing rules under <a href="https://109g.org?utm_source=bankruptcydismissed.com&utm_medium=referral&utm_campaign=btn-network" title="Section 109 Eligibility - Open Bankruptcy Project" target="_blank" rel="noopener">Section 109</a>(g) and the stay limitations under Section 362(c).</p>
+<p>Common reasons for dismissal without prejudice:</p>
+<ul>
+  <li>Failure to file required schedules or documents within the deadline</li>
+  <li>Failure to complete credit counseling</li>
+  <li>Failure to make <a href="https://chapter13plan.org?utm_source=bankruptcydismissed.com&utm_medium=referral&utm_campaign=btn-network" title="Chapter 13 Repayment Plan - Open Bankruptcy Project" target="_blank" rel="noopener">Chapter 13 plan</a> payments</li>
+  <li>Voluntary dismissal by the debtor (in Chapter 13, this is a right under Section 1307(b))</li>
+  <li>Failure to appear at the 341 meeting</li>
+</ul>
+
+<h2>How to Tell Which You Got</h2>
+<p>The dismissal order will typically state whether the dismissal is with or without prejudice. Look at the exact language:</p>
+<ul>
+  <li>"Case dismissed" or "Case dismissed without prejudice" = you can refile</li>
+  <li>"Case dismissed with prejudice" or "Debtor barred from filing for [X] days/months" = you must wait</li>
+  <li>"Case dismissed with a bar to refiling for 180 days" = specific time bar</li>
+</ul>
+<p>If the order does not specify, the dismissal is generally treated as without prejudice. But check with the court clerk or an attorney if you are unsure.</p>
+
+<h2>Section 349: Effects of Dismissal</h2>
+<p>Under 11 U.S.C. Section 349, dismissal of a bankruptcy case generally reinstates the pre-filing status quo:</p>
+<ul>
+  <li>All property of the estate reverts to the debtor</li>
+  <li>The automatic stay terminates</li>
+  <li>Liens that were avoided during the case may be reinstated</li>
+  <li>Transfers that were set aside may be restored</li>
+</ul>
+<p>The court can, for cause, order that the dismissal does <em>not</em> restore certain pre-filing rights or that certain conditions attach to any future filing.</p>
+
+<h2>Cross-References</h2>
+<ul>
+  <li><a href="/can-i-refile.html">Can I refile after dismissal?</a></li>
+  <li><a href="/refiling-after.html">Refiling guide</a></li>
+  <li><a href="https://109g.org?utm_source=bankruptcydismissed.com&utm_medium=referral&utm_campaign=btn-network">109g.org</a> - The 180-day filing bar</li>
+  <li><a href="https://canifileagain.org?utm_source=bankruptcydismissed.com&utm_medium=referral&utm_campaign=btn-network">canifileagain.org</a> - Refiling eligibility</li>
+</ul>
+
+</article>
+
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
+  <p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:</p>
+  <ul style="list-style:none;padding:0;margin:0">
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/523" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 523</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - exceptions to discharge</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/524" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 524</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - discharge injunction</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/727" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">11 U.S.C. Section 727</a><br><span style="color:#7d8590;font-size:0.8rem">Cornell LII - grounds for denying discharge</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.uscourts.gov/services-forms/bankruptcy/bankruptcy-basics/discharge-bankruptcy" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Discharge in Bankruptcy</a><br><span style="color:#7d8590;font-size:0.8rem">USCourts.gov</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.consumerfinance.gov/ask-cfpb/will-bankruptcy-get-rid-of-all-my-debts-en-1937/" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">CFPB: What Debts Are Discharged?</a><br><span style="color:#7d8590;font-size:0.8rem">Consumer guide</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Find Free Legal Aid</a><br><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
+    <li style="margin-bottom:0.5rem"><a href="https://scholar.google.com/scholar?q=%22nondischargeable%22+%22523%22+bankruptcy" target="_blank" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none">Discharge Research</a><br><span style="color:#7d8590;font-size:0.8rem">Google Scholar</span></li>
+  </ul>
+</div>
+<!-- RELATED GUIDES - injected by inject_related_guides.py -->
+<div id="related-guides" style="max-width:900px;margin:2.5rem auto;padding:0 1rem">
+  <p style="color:#f0f6fc;font-weight:700;font-size:1.2rem;margin:0 0 1rem 0;text-align:center">Related Guides</p>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+    <a href="https://dismissalrate.org?utm_source=bankruptcydismissed.com&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Bankruptcy Dismissal Rates</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">dismissalrate.org &rarr;</p>
+    </a>
+    <a href="https://dismissedbankruptcy.org?utm_source=bankruptcydismissed.com&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">What Happens After Dismissal</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">What happens after your case is dismissed</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">dismissedbankruptcy.org &rarr;</p>
+    </a>
+    <a href="https://whatischapter7.com?utm_source=bankruptcydismissed.com&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">What Is Chapter 7 Bankruptcy?</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Everything you need to know about Chapter 7</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">whatischapter7.com &rarr;</p>
+    </a>
+    <a href="https://727a8.com?utm_source=bankruptcydismissed.com&utm_medium=related-guides&utm_campaign=btn-network" class="related-card" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+      <p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Chapter 7 Discharge Time Bar Guide</p>
+      <p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Complete guide to the 8-year Chapter 7 discharge bar</p>
+      <p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">727a8.com &rarr;</p>
+    </a>
+  </div>
+</div>
+<style>
+.related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
+</style>
+<!-- /RELATED GUIDES -->
+
+
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+  <p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+  <ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+  <li><a href="https://filebankruptcyagain.org?utm_source=bankruptcydismissed&utm_medium=crosslink&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none">File Bankruptcy Again Guide</a></li>
+  <li><a href="https://bankruptcydenied.com?utm_source=bankruptcydismissed&utm_medium=crosslink&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none">Bankruptcy Denied - Next Steps</a></li>
+  <li><a href="https://bankruptcyhardship.org?utm_source=bankruptcydismissed&utm_medium=crosslink&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none">Bankruptcy Hardship Discharge</a></li>
+  <li><a href="https://behindonrent.com?utm_source=bankruptcydismissed&utm_medium=crosslink&utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none">Behind on Rent - Bankruptcy Options</a></li>
+  </ul>
+</div>
+
+<footer role="contentinfo">
+  <p>bankruptcydismissed.com - Part of the <strong style="color:#f0f6fc">Open Bankruptcy Project</strong></p>
+  <p class="links">
+    <a href="/">Home</a>
+    <a href="/dismissed-vs-discharged.html">Dismissed vs Discharged</a>
+    <a href="/reasons-for-dismissal.html">Reasons</a>
+    <a href="/refiling-after.html">Refiling</a>
+    <a href="/credit-impact.html">Credit Impact</a>
+    <a href="/prejudice-vs-without.html">With vs Without Prejudice</a>
+  </p>
+  <div class="network-bar" style="margin-top:1.5rem">
+    <strong>Network:</strong>
+    <a href="https://1328f.com?utm_source=bankruptcydismissed.com&utm_medium=referral&utm_campaign=btn-network">1328f.com</a> <span class="sep">--</span>
+    <a href="https://1328f.org?utm_source=bankruptcydismissed.com&utm_medium=referral&utm_campaign=btn-network">1328f.org</a> <span class="sep">--</span>
+    <a href="https://dismissedbankruptcy.org?utm_source=bankruptcydismissed.com&utm_medium=referral&utm_campaign=btn-network">dismissedbankruptcy.org</a> <span class="sep">--</span>
+    <a href="https://109g.org?utm_source=bankruptcydismissed.com&utm_medium=referral&utm_campaign=btn-network">109g.org</a> <span class="sep">--</span>
+    <a href="https://canifileagain.org?utm_source=bankruptcydismissed.com&utm_medium=referral&utm_campaign=btn-network">canifileagain.org</a> <span class="sep">--</span>
+    <a href="https://filebankruptcyagain.com?utm_source=bankruptcydismissed.com&utm_medium=referral&utm_campaign=btn-network">filebankruptcyagain.com</a>
+  </div>
+  <br><span style="font-size:11px">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created by using this site. Consult a licensed attorney for advice about your specific situation.</span>
+  <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=bankruptcydismissed.com&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=bankruptcydismissed.com&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=bankruptcydismissed.com&utm_medium=referral&utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" target="_blank" rel="noopener" style="color:#58a6ff">Suggestion 26-BK-3</a></p>
+</div>
+</footer>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
+  <p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">0</span> of 37.9 million</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
+  <div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
+  <p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
+  <p style="color:#9eaab6;font-size:0.85rem;margin-bottom:1rem">No spam. No marketing. Just data.</p>
+  <form action="https://formspree.io/f/xkoqeyzw" method="POST" style="display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap">
+    <input type="email" name="email" placeholder="your@email.com" required style="padding:0.5rem 1rem;border-radius:6px;border:1px solid #30363d;background:#0d1117;color:#f0f6fc;font-size:0.9rem;min-width:250px">
+    <input type="hidden" name="_subject" value="BTN Research Subscriber">
+    <button type="submit" style="padding:0.5rem 1.5rem;border-radius:6px;border:none;background:#238636;color:#fff;font-weight:600;font-size:0.9rem;cursor:pointer">Subscribe</button>
+  </form>
+</div>
+<div id="recap-bar" style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
+  <p style="margin-bottom:0.25rem"><span id="recap-donated" style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
+  <p style="color:#9eaab6;font-size:0.8rem;margin-bottom:0.75rem">1,500+ hours. No grants, no institutional backing.</p>
+  <a href="https://1328f.org/support/?utm_source=bankruptcydismissed.com&utm_medium=referral&utm_campaign=btn-network" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Fund this research</a>
+</div>
+<script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
+<script src="/btn-engage.js"></script>
+</body>
+</html>

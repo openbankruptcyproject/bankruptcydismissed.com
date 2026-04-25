@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<link href="https://www.googletagmanager.com" rel="preconnect"/>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-FTWLM223G7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-FTWLM223G7');
+  gtag('config', 'G-053Z64N82F');
+</script>
+<meta charset="utf-8"/>
+<link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<meta content="no-referrer-when-downgrade" name="referrer"/>
+<title>Bankruptcy Dismissed - What It Means and What Happens Next</title>
+<meta content="Your bankruptcy case was dismissed. Learn what that means in plain English, why it happened, and what your options are going forward. Free, independent guide." name="description"/>
+<link href="https://bankruptcydismissed.com/" rel="canonical"/>
+<link href="https://bankruptcydismissed.com/" hreflang="en" rel="alternate"/>
+<link href="https://bankruptcydismissed.com/es.html" hreflang="es" rel="alternate"/>
+<meta content="Bankruptcy Dismissed - What It Means and What Happens Next" property="og:title"/>
+<meta content="Your bankruptcy case was dismissed. Learn what that means in plain English, why it happened, and what your options are going forward." property="og:description"/>
+<meta content="website" property="og:type"/>
+<meta content="https://bankruptcydismissed.com/" property="og:url"/>
+<meta content="BankruptcyDismissed.com" property="og:site_name"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Bankruptcy Dismissed - What It Means and What Happens Next" name="twitter:title"/>
+<meta content="Your bankruptcy case was dismissed. Learn what that means in plain English, why it happened, and what your options are going forward." name="twitter:description"/>
+<meta content="https://openbankruptcyproject.org/og-default.svg" property="og:image"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="https://openbankruptcyproject.org/og-default.svg" name="twitter:image"/>
+<link href="/sitemap.xml" rel="sitemap" type="application/xml"/>
+<style>
+:root {
+  --bg: #0d1117;
+  --surface: #161b22;
+  --border: #30363d;
+  --text: #e6edf3;
+  --text-muted: #9eaab6;
+  --accent: #58a6ff;
+  --green: #3fb950;
+  --red: #f85149;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+}
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.skip-link {
+  position: absolute; left: -9999px; top: auto;
+  width: 1px; height: 1px; overflow: hidden;
+  padding: 1rem; background: #238636; color: #fff; font-weight: 600;
+}
+.skip-link:focus {
+  position: fixed; top: 10px; left: 10px;
+  width: auto; height: auto; overflow: visible; z-index: 1000;
+}
+header {
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+  padding: 2rem;
+  text-align: center;
+}
+header h1 { color: #f0f6fc; font-size: 1.8rem; margin-bottom: 0.5rem; }
+header h1 .accent { color: var(--accent); }
+header .subtitle { color: var(--text-muted); font-size: 1rem; }
+main { max-width: 760px; margin: 0 auto; padding: 2rem; }
+h2 { color: #f0f6fc; font-size: 1.3rem; margin: 2rem 0 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border); }
+h3 { color: #f0f6fc; font-size: 1.1rem; margin: 1.5rem 0 0.5rem; }
+p { margin-bottom: 1rem; }
+ul, ol { margin: 0 0 1rem 1.5rem; }
+li { margin-bottom: 0.5rem; }
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+.highlight { color: var(--accent); font-weight: 600; }
+.warning { color: var(--red); font-weight: 600; }
+.success { color: var(--green); font-weight: 600; }
+table { width: 100%; border-collapse: collapse; margin-bottom: 1.5rem; }
+th, td { padding: 0.75rem; text-align: left; border: 1px solid var(--border); }
+th { background: var(--surface); color: #f0f6fc; font-weight: 600; }
+td { color: var(--text); }
+.disclaimer {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1rem 1.5rem;
+  margin: 2rem 0;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+#site-nav { background: var(--bg); border-bottom: 1px solid var(--border); padding: 0.5rem 1rem; text-align: center; font-size: 0.82rem; line-height: 1.9; }
+#site-nav a { margin: 0 0.4rem; }
+#site-nav .sep { color: var(--border); margin: 0 0.25rem; }
+.nav-toggle { display: none; background: none; border: 1px solid var(--border); color: var(--text); font-size: 1.2rem; padding: 0.4rem 0.75rem; border-radius: 4px; cursor: pointer; line-height: 1; }
+.nav-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.nav-links { display: inline; }
+@media(max-width:768px) {
+  .nav-toggle { display: inline-block; margin: 0.25rem 0; }
+  .nav-links { display: none; text-align: left; padding: 0.5rem 0; }
+  .nav-links.open { display: block; }
+  .nav-links a { display: block; padding: 0.6rem 1rem; margin: 0; font-size: 0.95rem; min-height: 44px; line-height: 1.6; border-bottom: 1px solid #21262d; }
+  .nav-links a:hover, .nav-links a:focus { background: var(--surface); }
+  .nav-links .sep { display: none; }
+  header { padding: 1.5rem 1rem; }
+  main { padding: 1rem; }
+  header h1 { font-size: 1.4rem; }
+}
+footer {
+  background: var(--surface);
+  border-top: 1px solid var(--border);
+  padding: 2rem; text-align: center;
+  margin-top: 3rem; color: var(--text-muted); font-size: 0.85rem;
+}
+footer a { color: var(--accent); }
+footer .links { margin-top: 0.5rem; }
+footer .links a { margin: 0 0.75rem; }
+footer .network { margin-top: 1rem; padding-top: 1rem; border-top: 1px solid var(--border); font-size: 0.8rem; }
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does it mean when a bankruptcy is dismissed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A dismissed bankruptcy means the court closed your case without granting a discharge. Your debts are not eliminated, and creditors can resume collection activity including lawsuits, wage garnishment, foreclosure, and repossession. The automatic stay that protected you during the case is lifted immediately upon dismissal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is a dismissed bankruptcy the same as a discharged bankruptcy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. Dismissed and discharged are opposite outcomes. A discharge eliminates qualifying debts permanently and is the successful outcome of a bankruptcy case. A dismissal means the case ended without any debt relief. Your debts remain in full, and creditors regain all collection rights."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I file bankruptcy again after a dismissal?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In most cases, yes. If your case was dismissed for procedural reasons like failing to file paperwork on time, there is usually no waiting period. However, if you voluntarily dismissed your case or if the court found willful failure to comply with court orders, Section 109(g) of the Bankruptcy Code imposes a 180-day bar on refiling. Additionally, Section 362(c)(3) reduces automatic stay protection if you refile within one year of a dismissal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does a dismissed bankruptcy stay on my credit report?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A dismissed bankruptcy filing typically remains on your credit report for 7 to 10 years from the filing date, depending on the chapter. Chapter 7 filings remain for 10 years, while Chapter 13 filings remain for 7 years. The dismissal itself does not remove the record of the filing from your credit history."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the most common reason bankruptcy cases get dismissed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common reason is failure to file required documents on time, including schedules, statements, and the Chapter 13 plan. Other frequent causes include missing the Section 341 meeting of creditors, failing to make plan payments, failing to complete required credit counseling, and failing the means test in Chapter 7 cases."
+      }
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Bankruptcy Dismissed -- What It Means and What Happens Next",
+  "description": "Your bankruptcy case was dismissed. Learn what that means in plain English, why it happened, and what your options are going forward.",
+  "url": "https://bankruptcydismissed.com/",
+  "inLanguage": "en",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "BankruptcyDismissed.com",
+    "url": "https://bankruptcydismissed.com/"
+  }
+}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://bankruptcydismissed.com/"}]}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@graph": [{"@type": "Article", "headline": "Bankruptcy Dismissed -- What It Means and What Happens Next", "description": "Your bankruptcy case was dismissed. Learn what that means in plain English, why it happened, and what your options are going forward. Free, independent guide.", "author": {"@type": "Organization", "name": "Open Bankruptcy Project"}, "publisher": {"@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://1328f.org"}, "datePublished": "2026-03-28", "dateModified": "2026-03-29", "mainEntityOfPage": "https://bankruptcydismissed.com/"}, {"@type": "HowTo", "name": "Bankruptcy Dismissed -- What It Means and What Happens Next", "step": [{"@type": "HowToStep", "position": 1, "text": "Missing the Section 341 meeting of creditors", "name": "Missing the Section 341 meeting of creditors"}, {"@type": "HowToStep", "position": 2, "text": "Failing to make Chapter 13 plan payments", "name": "Failing to make Chapter 13 plan payments"}, {"@type": "HowToStep", "position": 3, "text": "Not completing the required credit counseling course", "name": "Not completing the required credit counseling course"}, {"@type": "HowToStep", "position": 4, "text": "Failing the Chapter 7 means test", "name": "Failing the Chapter 7 means test"}, {"@type": "HowToStep", "position": 5, "text": "A creditor or trustee motion to dismiss that the court granted", "name": "A creditor or trustee motion to dismiss that the court granted"}, {"@type": "HowToStep", "position": 6, "text": "Wage garnishment can resume or begin", "name": "Wage garnishment can resume or begin"}, {"@type": "HowToStep", "position": 7, "text": "Foreclosure proceedings can move forward", "name": "Foreclosure proceedings can move forward"}, {"@type": "HowToStep", "position": 8, "text": "Repossession of vehicles and other collateral can occur", "name": "Repossession of vehicles and other collateral can occur"}, {"@type": "HowToStep", "position": 9, "text": "Lawsuits that were paused during the bankruptcy can continue", "name": "Lawsuits that were paused during the bankruptcy can continue"}]}, {"@type": "SiteNavigationElement", "name": "BTN Network", "url": ["https://1328f.com", "https://1328f.org", "https://automaticstay.org", "https://341meeting.org", "https://523a.org", "https://109g.org", "https://727a8.com", "https://meanstest.org", "https://chapter7vs13.org", "https://howtofilebankruptcy.org"]}]}
+</script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to main content</a>
+<nav aria-label="Site navigation" id="site-nav">
+<button aria-controls="nav-links" aria-expanded="false" aria-label="Toggle navigation menu" class="nav-toggle">☰ Menu</button>
+<div class="nav-links" id="nav-links">
+<a href="/">Home</a>
+<span class="sep">|</span>
+<a href="/dismissed-vs-discharged.html">Dismissed vs Discharged</a>
+<span class="sep">|</span>
+<a href="/can-i-refile.html">Can I Refile?</a>
+<span class="sep">|</span>
+<a href="/reasons-for-dismissal.html">Reasons for Dismissal</a>
+<span class="sep">|</span>
+<a href="/what-happens-next.html">What Happens Next</a>
+<span class="sep">|</span>
+<a href="/employer-impact.html">Employer Impact</a>
+<span class="sep">|</span>
+<a href="https://1328f.com/check.html?utm_source=bankruptcydismissed.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Eligibility Screener</a>
+</div>
+</nav>
+<div class="obp-banner" style="background:#151b23;border-bottom:1px solid #252d38;padding:8px 16px;text-align:center;font-size:0.82rem;color:#7d8590;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+  Part of the <a href="https://openbankruptcyproject.org?utm_source=bankruptcydismissed.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-weight:600">Open Bankruptcy Project</a> - 75+ free domains, 2,000+ pages, $0 cost
+</div>
+<header>
+<h1><span class="accent">Bankruptcy Dismissed</span> - What It Means and What Happens Next</h1>
+<p class="subtitle">A plain-English guide from the Open Bankruptcy Project</p>
+</header>
+<main id="main">
+<div class="disclaimer">
+<strong>Not legal advice.</strong> This site provides general educational information about bankruptcy law. It is not a substitute for advice from a licensed attorney. If your bankruptcy case has been dismissed, consult with a bankruptcy attorney in your jurisdiction.
+</div>
+<p>If you just received notice that your bankruptcy case has been dismissed, you are probably confused and worried. You are not alone. Hundreds of thousands of bankruptcy cases are dismissed every year in the United States. In Chapter 13 alone, roughly 40% to 60% of all cases filed end in dismissal rather than discharge, depending on the district.</p>
+<p>This guide explains what a bankruptcy dismissal means, why it happens, and what you can do about it.</p>
+<h2>What Does "Dismissed" Mean in Bankruptcy?</h2>
+<p>When a bankruptcy court dismisses your case, it means the case is <span class="warning">closed without granting you a discharge</span>. A discharge is the legal order that eliminates your qualifying debts. Without it, you are back to where you started.</p>
+<p>Think of it this way: filing for bankruptcy opens a door to potential debt relief. A dismissal closes that door before you walk through it. Your debts are not eliminated. Your creditors are not permanently barred from collecting. The <a href="https://automaticstay.org?utm_source=bankruptcydismissed.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay protection in bankruptcy</a> - the legal protection that stopped collection calls, lawsuits, wage garnishments, foreclosures, and repossessions - is lifted the moment your case is dismissed.</p>
+<p>A dismissal is not the same as a denial of discharge. A denial of discharge under <a href="https://1328f.com/727a8-discharge-bar.html?utm_source=bankruptcydismissed.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Section 727(a)</a> means the court affirmatively decided you are not entitled to relief, typically because of fraud or other misconduct. A dismissal is procedural - it means the case did not proceed to the point where discharge could be considered.</p>
+<h2>Voluntary vs. Involuntary Dismissal</h2>
+<p>Dismissals fall into two broad categories, and the distinction matters for your ability to refile.</p>
+<h3>Voluntary Dismissal</h3>
+<p>You asked the court to dismiss your case. Debtors do this for many reasons: they found another way to resolve their debts, their financial situation changed, or they decided bankruptcy was not the right path. In Chapter 13, debtors have a right to request voluntary dismissal under Section 1307(b) unless the case was previously converted from another chapter.</p>
+<p>The catch: a voluntary dismissal triggers the <a href="/can-i-refile.html">180-day refiling bar under Section 109(g)(1)</a>. If you ask the court to dismiss your case, you cannot file a new bankruptcy case for 180 days.</p>
+<h3>Involuntary Dismissal</h3>
+<p>The court dismissed your case, usually because you failed to meet a requirement. Common triggers include:</p>
+<ul>
+<li>Failing to file required schedules or statements on time</li>
+<li>Missing the <a href="https://www.law.cornell.edu/uscode/text/11/341" rel="noopener" target="_blank">Section 341</a> <a href="https://341meeting.org?utm_source=bankruptcydismissed.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">meeting of creditors</a></li>
+<li>Failing to make <a href="https://chapter13plan.org?utm_source=bankruptcydismissed.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" rel="noopener" target="_blank" title="Chapter 13 Repayment Plan - Open Bankruptcy Project">Chapter 13 plan</a> payments</li>
+<li>Not completing the required credit counseling course</li>
+<li>Failing the Chapter 7 means test</li>
+<li>A creditor or trustee motion to dismiss that the court granted</li>
+</ul>
+<p>Most involuntary dismissals do <span class="highlight">not</span> trigger a refiling bar - unless the court specifically found willful failure to abide by court orders or to appear before the court. That specific finding triggers the 180-day bar under <a href="https://www.law.cornell.edu/uscode/text/11/109#g_0" rel="noopener" target="_blank">Section 109(g)</a>(2).</p>
+<h2>What Happens Immediately After Dismissal</h2>
+<div class="card">
+<h3>The Automatic Stay Is Lifted</h3>
+<p>The moment your case is dismissed, the automatic stay under Section 362(a) ceases to exist. Creditors are free to resume all collection activity. This means:</p>
+<ul>
+<li><strong>Wage garnishment</strong> can resume or begin</li>
+<li><strong>Foreclosure</strong> proceedings can move forward</li>
+<li><strong>Repossession</strong> of vehicles and other collateral can occur</li>
+<li><strong>Lawsuits</strong> that were paused during the bankruptcy can continue</li>
+<li><strong>Collection calls and letters</strong> are no longer prohibited</li>
+<li><strong>Utility disconnection</strong> protections end</li>
+</ul>
+</div>
+<p>If you are facing imminent foreclosure or repossession, you need to act quickly. Speak with a bankruptcy attorney about whether refiling makes sense and what protections might be available. For more detail, see our guide on <a href="/what-happens-next.html">what happens after dismissal</a>.</p>
+<h2>Does Dismissal Mean I Cannot File Again?</h2>
+<p>No. In most situations, <a href="/can-i-refile.html">you can file again</a>. The question is whether you face a waiting period and whether the automatic stay will provide full protection if you do refile.</p>
+<p>Key rules to understand:</p>
+<ol>
+<li><strong><a href="https://www.law.cornell.edu/uscode/text/11/109#g_0" rel="noopener" target="_blank">Section 109(g)</a> - the 180-day bar.</strong> Applies if you voluntarily dismissed your case, or if the court found willful failure to comply. Otherwise, no waiting period.</li>
+<li><strong>Section 362(c)(3) - reduced stay on refiling.</strong> If you file a new case within one year of a dismissal, the automatic stay expires after 30 days unless you file a motion and convince the court to extend it. This is a critical protection gap.</li>
+<li><strong>Section 362(c)(4) - no stay at all on third filing.</strong> If you have had two or more cases pending and dismissed within the past year, a new filing does not trigger the automatic stay at all. You must affirmatively request it.</li>
+</ol>
+<p>For a detailed breakdown with timelines and filing strategies, read our full guide: <a href="/can-i-refile.html">My Bankruptcy Was Dismissed - Can I File Again?</a></p>
+<h2>The Dismissed vs. Discharged Confusion</h2>
+<p>"Dismissed" and "discharged" sound similar but have <a href="/dismissed-vs-discharged.html">completely opposite meanings</a>. This is the single most common source of confusion in bankruptcy law for non-attorneys.</p>
+<table>
+<thead>
+<tr>
+<th scope="col">Outcome</th>
+<th scope="col">What It Means</th>
+<th scope="col">Debts Eliminated?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="success">Discharged</span></td>
+<td>Case completed successfully. Court issued a discharge order.</td>
+<td>Yes (qualifying debts)</td>
+</tr>
+<tr>
+<td><span class="warning">Dismissed</span></td>
+<td>Case closed without completion. No discharge order issued.</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+<p>If your case was <span class="success">discharged</span>, your qualifying debts are permanently eliminated. If your case was <span class="warning">dismissed</span>, your debts remain exactly as they were before you filed. Learn more in our full comparison: <a href="/dismissed-vs-discharged.html">Dismissed vs. Discharged - The Critical Difference</a>.</p>
+<h2>Why So Many Cases Get Dismissed</h2>
+<p>If your case was dismissed, you might feel like you did something wrong. Sometimes that is the case - you missed a deadline, forgot a payment, or did not attend a required meeting. But a large percentage of dismissals are not the debtor's fault.</p>
+<p>Common causes of dismissal include:</p>
+<ul>
+<li><strong>Attorney neglect.</strong> Your attorney failed to file schedules on time, missed a deadline, or did not prepare your case properly. This is more common than most people realize. Research from the <a href="https://1328f.org/?utm_source=bankruptcydismissed.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Open Bankruptcy Project</a> shows that some law firms have dismissal rates two to three times higher than the district average.</li>
+<li><strong>Unrealistic Chapter 13 plans.</strong> Plans that propose payments the debtor cannot afford almost always end in dismissal.</li>
+<li><strong>Failure to file required documents.</strong> Courts require schedules, statements, tax returns, pay stubs, and credit counseling certificates. Missing any of these can result in dismissal.</li>
+<li><strong>Missed plan payments.</strong> In Chapter 13, you must make regular payments to the trustee. Falling behind leads to a motion to dismiss.</li>
+<li><strong>Change in circumstances.</strong> Job loss, medical emergency, or other events that make plan payments impossible.</li>
+</ul>
+<p>Read the full breakdown: <a href="/reasons-for-dismissal.html">Why Bankruptcy Cases Get Dismissed</a>.</p>
+<h2>What You Should Do Now</h2>
+<p>If your bankruptcy was just dismissed, here are your immediate priorities:</p>
+<ol>
+<li><strong>Read the dismissal order carefully.</strong> It will state the reason for dismissal. The reason matters for whether you face a refiling bar.</li>
+<li><strong>Identify urgent threats.</strong> Is foreclosure imminent? Is your car about to be repossessed? Is a wage garnishment active? Prioritize protecting your most critical assets.</li>
+<li><strong>Understand your refiling rights.</strong> Use our <a href="/can-i-refile.html">refiling guide</a> to determine whether you face a waiting period.</li>
+<li><strong>Consider whether your attorney bears responsibility.</strong> If the dismissal resulted from your attorney's failure to file documents, meet deadlines, or prepare your case properly, that may be actionable. <a href="https://1328f.com/check.html?utm_source=bankruptcydismissed.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">Check your attorney's track record</a> using public PACER data.</li>
+<li><strong>Consult a new attorney.</strong> If you lost confidence in your previous attorney, get a second opinion. Many bankruptcy attorneys offer free initial consultations.</li>
+</ol>
+<h2>Credit Report Impact</h2>
+<p>A dismissed bankruptcy will appear on your credit report. The filing itself is reported, and the dismissal notation is added when the case closes. The record remains for:</p>
+<ul>
+<li><strong>Chapter 7:</strong> 10 years from the filing date</li>
+<li><strong>Chapter 13:</strong> 7 years from the filing date</li>
+</ul>
+<p>A dismissed case has a negative credit impact similar to a completed bankruptcy, but without any of the debt relief benefits. This is one of the most frustrating aspects of a dismissal - you take the credit hit but get none of the fresh start. Read more about the <a href="/employer-impact.html">employment and credit implications</a>.</p>
+<h2>Frequently Asked Questions</h2>
+<div class="card">
+<h3>Do I still owe my debts after dismissal?</h3>
+<p>Yes. Every debt you owed before filing still exists in full. Creditors can resume collection immediately.</p>
+</div>
+<div class="card">
+<h3>Can the court dismiss my case without warning?</h3>
+<p>Courts generally provide notice before dismissal, but the notice period varies. Some courts issue a "notice of intent to dismiss" giving you a deadline to cure the deficiency. Others dismiss after a missed 341 meeting or a trustee motion. Always read and respond to court notices promptly.</p>
+</div>
+<div class="card">
+<h3>Can I get my filing fee back?</h3>
+<p>No. The filing fee (currently $338 for Chapter 7 and $313 for Chapter 13) is not refundable after dismissal.</p>
+</div>
+<div class="card">
+<h3>Can I get my attorney fees back?</h3>
+<p>Possibly. If your attorney's negligence caused the dismissal, you may have a claim for fee disgorgement (the court orders fees returned) or legal malpractice. Consult with a legal malpractice attorney in your state.</p>
+</div>
+<div class="card">
+<h3>Does dismissal affect my ability to file a different chapter?</h3>
+<p>A Chapter 13 dismissal does not prevent you from filing Chapter 7, and vice versa. The refiling restrictions under Sections 109(g) and 362(c)(3) apply regardless of chapter, but the <a href="https://1328f.com/check.html?utm_source=bankruptcydismissed.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">discharge eligibility rules</a> under Sections 727(a)(8), 727(a)(9), and 1328(f) only apply to discharge, not filing.</p>
+</div>
+<div class="disclaimer">
+<strong>Not legal advice.</strong> This guide is for general educational purposes only. Bankruptcy law is complex and varies by jurisdiction. If your case has been dismissed, consult with a licensed bankruptcy attorney in your area. Nothing on this site creates an attorney-client relationship.
+</div>
+<!-- BTN Cross-Links (auto-generated by crosslink_builder.py) -->
+<div class="btn-crosslinks" style="max-width:820px;margin:1.5rem auto;padding:1.5rem;background:#161b22;border:1px solid #30363d;border-radius:8px">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.75rem 0">Related Guides</p>
+<ul style="list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:0.5rem">
+<li><a href="https://canifileagain.org?utm_source=bankruptcydismissed&amp;utm_medium=crosslink&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none">Can I File Bankruptcy Again?</a></li>
+<li><a href="https://filebankruptcyagain.org?utm_source=bankruptcydismissed&amp;utm_medium=crosslink&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none">File Bankruptcy Again Guide</a></li>
+<li><a href="https://109g.org?utm_source=bankruptcydismissed&amp;utm_medium=crosslink&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none">Section 109(g) Filing Bar</a></li>
+<li><a href="https://bankruptcydenied.com?utm_source=bankruptcydismissed&amp;utm_medium=crosslink&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none">Bankruptcy Denied - Next Steps</a></li>
+</ul>
+</div>
+
+<!-- browse-by-state-grid:START -->
+<div id="browse-by-state-grid" style="max-width:860px;margin:2rem auto;padding:1.5rem 2rem;background:#161b22;border:1px solid #30363d;border-radius:12px">
+<h2 style="color:#58a6ff;font-size:1.35rem;margin-bottom:.75rem;border-bottom:1px solid #30363d;padding-bottom:.5rem">Browse by State: Bankruptcy Dismissal by State</h2>
+<p style="color:#9eaab6;font-size:.92rem;margin-bottom:1rem">State-specific rules, federal court data, and practical guidance for every state and DC. 51 pages total.</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:.4rem">
+<a href="/states/alabama.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Alabama</a><a href="/states/alaska.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Alaska</a><a href="/states/arizona.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Arizona</a><a href="/states/arkansas.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Arkansas</a><a href="/states/california.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">California</a><a href="/states/colorado.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Colorado</a><a href="/states/connecticut.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Connecticut</a><a href="/states/delaware.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Delaware</a><a href="/states/district-of-columbia.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">District of Columbia</a><a href="/states/florida.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Florida</a><a href="/states/georgia.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Georgia</a><a href="/states/hawaii.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Hawaii</a><a href="/states/idaho.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Idaho</a><a href="/states/illinois.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Illinois</a><a href="/states/indiana.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Indiana</a><a href="/states/iowa.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Iowa</a><a href="/states/kansas.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Kansas</a><a href="/states/kentucky.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Kentucky</a><a href="/states/louisiana.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Louisiana</a><a href="/states/maine.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Maine</a><a href="/states/maryland.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Maryland</a><a href="/states/massachusetts.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Massachusetts</a><a href="/states/michigan.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Michigan</a><a href="/states/minnesota.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Minnesota</a><a href="/states/mississippi.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Mississippi</a><a href="/states/missouri.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Missouri</a><a href="/states/montana.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Montana</a><a href="/states/nebraska.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Nebraska</a><a href="/states/nevada.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Nevada</a><a href="/states/new-hampshire.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">New Hampshire</a><a href="/states/new-jersey.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">New Jersey</a><a href="/states/new-mexico.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">New Mexico</a><a href="/states/new-york.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">New York</a><a href="/states/north-carolina.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">North Carolina</a><a href="/states/north-dakota.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">North Dakota</a><a href="/states/ohio.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Ohio</a><a href="/states/oklahoma.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Oklahoma</a><a href="/states/oregon.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Oregon</a><a href="/states/pennsylvania.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Pennsylvania</a><a href="/states/rhode-island.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Rhode Island</a><a href="/states/south-carolina.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">South Carolina</a><a href="/states/south-dakota.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">South Dakota</a><a href="/states/tennessee.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Tennessee</a><a href="/states/texas.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Texas</a><a href="/states/utah.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Utah</a><a href="/states/vermont.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Vermont</a><a href="/states/virginia.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Virginia</a><a href="/states/washington.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Washington</a><a href="/states/west-virginia.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">West Virginia</a><a href="/states/wisconsin.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Wisconsin</a><a href="/states/wyoming.html" style="background:#1c2129;border:1px solid #30363d;border-radius:6px;padding:.5rem .7rem;color:#58a6ff;font-size:.88rem;display:block;text-decoration:none">Wyoming</a>
+</div>
+</div>
+<!-- browse-by-state-grid:END -->
+</main>
+<!-- RECAP Counter -->
+<div style="text-align:center;margin:1.5rem auto;max-width:600px">
+<a href="https://openbankruptcyproject.org/recap.html" style="display:inline-block;background:#0d1117;border:1px solid #238636;color:#3fb950;padding:0.6rem 1.5rem;border-radius:6px;font-weight:700;font-size:0.95rem;text-decoration:none;letter-spacing:-0.01em">462+ Court Documents Freed from PACER</a>
+<p style="color:#7d8590;font-size:0.78rem;margin-top:0.4rem">We buy federal court records and donate them to RECAP so no one has to pay. <a href="https://openbankruptcyproject.org/recap.html" style="color:#58a6ff;text-decoration:none">Browse the archive →</a></p>
+</div>
+<!-- Transparency Counter -->
+<div style="text-align:center;margin:0.5rem auto 1.5rem;max-width:600px">
+<p style="color:#7d8590;font-size:0.8rem;margin:0;letter-spacing:0.02em"><strong style="color:#e6edf3">$16,500+ spent</strong> · <strong style="color:#e6edf3">$0 donated</strong> · <strong style="color:#e6edf3">$0 hosting</strong> · 105 domains · 2,000+ pages · All free, forever.</p>
+</div>
+<div style="background:var(--surface);border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:0 auto 1rem">
+<p style="color:var(--text);margin:0 0 0.5rem;font-size:0.95rem">This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit, funding PACER access fees and bankruptcy court transparency research.</p>
+<a href="https://ko-fi.com/openbankruptcyproject" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Support on Ko-fi</a>
+</div>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;max-width:700px;margin:2rem auto">
+<p style="color:#f0f6fc;font-weight:600;font-size:1.05rem;margin:0 0 0.75rem 0">Further Reading &amp; Resources</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0 0 1rem 0">Authority sources for deeper research on bankruptcy discharge and nondischargeable debts:</p>
+<ul style="list-style:none;padding:0;margin:0">
+<li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/523" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 523</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - exceptions to discharge</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/524" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 524</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - discharge injunction</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.law.cornell.edu/uscode/text/11/727" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">11 U.S.C. Section 727</a><br/><span style="color:#7d8590;font-size:0.8rem">Cornell LII - grounds for denying discharge</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.uscourts.gov/services-forms/bankruptcy/bankruptcy-basics/discharge-bankruptcy" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Discharge in Bankruptcy</a><br/><span style="color:#7d8590;font-size:0.8rem">USCourts.gov</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.consumerfinance.gov/ask-cfpb/will-bankruptcy-get-rid-of-all-my-debts-en-1937/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">CFPB: What Debts Are Discharged?</a><br/><span style="color:#7d8590;font-size:0.8rem">Consumer guide</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://www.lawhelp.org/" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Find Free Legal Aid</a><br/><span style="color:#7d8590;font-size:0.8rem">LSC legal aid finder</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://scholar.google.com/scholar?q=%22nondischargeable%22+%22523%22+bankruptcy" rel="noopener" style="color:#58a6ff;font-size:0.9rem;text-decoration:none" target="_blank">Discharge Research</a><br/><span style="color:#7d8590;font-size:0.8rem">Google Scholar</span></li>
+</ul>
+</div>
+<!-- RELATED GUIDES - injected by inject_related_guides.py -->
+<div id="related-guides" style="max-width:900px;margin:2.5rem auto;padding:0 1rem">
+<p style="color:#f0f6fc;font-weight:700;font-size:1.2rem;margin:0 0 1rem 0;text-align:center">Related Guides</p>
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem">
+<a class="related-card" href="https://dismissalrate.org?utm_source=bankruptcydismissed.com&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Bankruptcy Dismissal Rates</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Free bankruptcy information guide</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">dismissalrate.org →</p>
+</a>
+<a class="related-card" href="https://dismissedbankruptcy.org?utm_source=bankruptcydismissed.com&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">What Happens After Dismissal</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">What happens after your case is dismissed</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">dismissedbankruptcy.org →</p>
+</a>
+<a class="related-card" href="https://whatischapter7.com?utm_source=bankruptcydismissed.com&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">What Is Chapter 7 Bankruptcy?</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Everything you need to know about Chapter 7</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">whatischapter7.com →</p>
+</a>
+<a class="related-card" href="https://727a8.com?utm_source=bankruptcydismissed.com&amp;utm_medium=related-guides&amp;utm_campaign=btn-network" style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:1.25rem;text-decoration:none;display:block;transition:border-color 0.2s,transform 0.2s">
+<p style="color:#58a6ff;font-weight:600;font-size:1rem;margin:0 0 0.4rem 0">Chapter 7 Discharge Time Bar Guide</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin:0;line-height:1.4">Complete guide to the 8-year Chapter 7 discharge bar</p>
+<p style="color:#58a6ff;font-size:0.8rem;margin:0.5rem 0 0 0">727a8.com →</p>
+</a>
+</div>
+</div>
+<style>
+.related-card:hover {border-color:#58a6ff !important;transform:translateY(-2px)}
+</style>
+<!-- /RELATED GUIDES -->
+<!-- STATE GUIDES CROSS-LINK (injected by inject_state_links.py 2026-04-01) -->
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.25rem 1.5rem;max-width:700px;margin:2rem auto;text-align:center">
+<p style="color:#f0f6fc;font-weight:600;font-size:1rem;margin:0 0 0.5rem">State Bankruptcy Guides</p>
+<p style="color:#9eaab6;font-size:0.88rem;margin:0 0 0.75rem">Exemptions vary dramatically by state. Find your state's homestead, vehicle, and wildcard exemptions.</p>
+<p style="margin:0 0 0.75rem;font-size:0.85rem;line-height:1.8"><a href="https://bankruptcyexemptionsbystate.com/states/california.html?utm_source=bankruptcydismissed&amp;utm_medium=referral&amp;utm_campaign=btn-state-guides" style="color:#58a6ff;white-space:nowrap">California</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/texas.html?utm_source=bankruptcydismissed&amp;utm_medium=referral&amp;utm_campaign=btn-state-guides" style="color:#58a6ff;white-space:nowrap">Texas</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/florida.html?utm_source=bankruptcydismissed&amp;utm_medium=referral&amp;utm_campaign=btn-state-guides" style="color:#58a6ff;white-space:nowrap">Florida</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/new-york.html?utm_source=bankruptcydismissed&amp;utm_medium=referral&amp;utm_campaign=btn-state-guides" style="color:#58a6ff;white-space:nowrap">New York</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/illinois.html?utm_source=bankruptcydismissed&amp;utm_medium=referral&amp;utm_campaign=btn-state-guides" style="color:#58a6ff;white-space:nowrap">Illinois</a> <span style="color:#30363d">·</span> <a href="https://bankruptcyexemptionsbystate.com/states/ohio.html?utm_source=bankruptcydismissed&amp;utm_medium=referral&amp;utm_campaign=btn-state-guides" style="color:#58a6ff;white-space:nowrap">Ohio</a></p>
+<a href="https://bankruptcyexemptionsbystate.com/states/?utm_source=bankruptcydismissed&amp;utm_medium=referral&amp;utm_campaign=btn-state-guides" style="display:inline-block;background:#238636;color:#fff;padding:0.45rem 1.25rem;border-radius:6px;font-weight:600;font-size:0.88rem;text-decoration:none">Browse All 50 State Guides →</a>
+</div>
+<!-- /STATE GUIDES CROSS-LINK -->
+<footer>
+<p>© 2026 BankruptcyDismissed.com. Educational resource. Not legal advice.</p>
+<div class="links">
+<a href="/dismissed-vs-discharged.html">Dismissed vs Discharged</a>
+<a href="/can-i-refile.html">Can I Refile?</a>
+<a href="/reasons-for-dismissal.html">Why Cases Get Dismissed</a>
+<a href="/what-happens-next.html">What Happens Next</a>
+<a href="/employer-impact.html">Employer Impact</a>
+</div>
+<div class="network">
+    Part of the <strong>Open Bankruptcy Project</strong>:
+    <a href="https://1328f.com?utm_source=bankruptcydismissed.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.com</a> ·
+    <a href="https://1328f.org?utm_source=bankruptcydismissed.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.org</a> ·
+    <a href="https://filebankruptcyagain.com?utm_source=bankruptcydismissed.com&amp;utm_medium=referral&amp;utm_campaign=btn-network">FileBankruptcyAgain.com</a> ·
+    <a href="https://bankruptcydismissed.com">BankruptcyDismissed.com</a> ·
+    <a href="https://ko-fi.com/openbankruptcyproject">Ko-fi</a>
+</div>
+<p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=bankruptcydismissed.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=bankruptcydismissed.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=bankruptcydismissed.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
+<div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" rel="noopener" style="color:#58a6ff" target="_blank">Suggestion 26-BK-3</a></p>
+</div>
+</footer>
+<div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:900px;margin:2rem auto 0">
+<p style="color:#f0f6fc;font-size:1.1rem;font-weight:600;margin-bottom:0.25rem">PACER cases made free through RECAP: <span id="recap-count" style="color:#58a6ff">0</span> of 37.9 million</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin-bottom:0.75rem">Every document we access becomes permanently free for the next researcher, attorney, or debtor.</p>
+<div style="background:#21262d;border-radius:6px;height:22px;overflow:hidden;margin:0.75rem auto;max-width:400px"><div style="background:#161b22;border:1px solid #30363d;border-radius:6px;padding:1.5rem;text-align:center;max-width:600px;margin:2rem auto">
+<p style="color:#f0f6fc;font-size:1rem;font-weight:600;margin-bottom:0.5rem">Stay updated on new datasets and research findings</p>
+<p style="color:#9eaab6;font-size:0.85rem;margin-bottom:1rem">No spam. No marketing. Just data.</p>
+<form action="https://formspree.io/f/xkoqeyzw" method="POST" style="display:flex;gap:0.5rem;justify-content:center;flex-wrap:wrap">
+<input name="email" placeholder="your@email.com" required="" style="padding:0.5rem 1rem;border-radius:6px;border:1px solid #30363d;background:#0d1117;color:#f0f6fc;font-size:0.9rem;min-width:250px" type="email"/>
+<input name="_subject" type="hidden" value="BTN Research Subscriber"/>
+<button style="padding:0.5rem 1.5rem;border-radius:6px;border:none;background:#238636;color:#fff;font-weight:600;font-size:0.9rem;cursor:pointer" type="submit">Subscribe</button>
+</form>
+</div>
+<div id="recap-bar" style="background:linear-gradient(90deg,#238636,#2ea043);height:100%;width:0%;border-radius:6px;min-width:2px"></div></div>
+<p style="margin-bottom:0.25rem"><span id="recap-donated" style="color:#58a6ff;font-size:1.2rem;font-weight:700">$0</span> <span style="color:#9eaab6">of</span> <span style="color:#f0f6fc;font-size:1.2rem;font-weight:700">$5,000</span> <span style="color:#9eaab6">Q1 PACER research goal</span></p>
+<p style="color:#9eaab6;font-size:0.8rem;margin-bottom:0.75rem">1,500+ hours. No grants, no institutional backing.</p>
+<a href="https://1328f.org/support/?utm_source=bankruptcydismissed.com&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none">Fund this research</a>
+</div>
+<script>fetch("https://1328f.com/data/recap-count.json").then(function(r){return r.json()}).then(function(d){var e=document.getElementById("recap-count");if(e&&d.count!==undefined)e.textContent=d.count.toLocaleString();var b=document.getElementById("recap-bar");if(b&&d.count)b.style.width=Math.min(100,d.count/37900000*100).toFixed(4)+"%";var dn=document.getElementById("recap-donated");if(dn&&d.donated!==undefined)dn.textContent="$"+d.donated.toLocaleString()}).catch(function(){})</script>
+<script>
+document.querySelector('.nav-toggle').addEventListener('click', function() {
+  var links = document.getElementById('nav-links');
+  var expanded = this.getAttribute('aria-expanded') === 'true';
+  this.setAttribute('aria-expanded', !expanded);
+  links.classList.toggle('open');
+});
+</script>
+<script src="/btn-engage.js"></script>
+</body>
+</html>
